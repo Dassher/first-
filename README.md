@@ -9,11 +9,17 @@
     <p>Она любит розы и глупые драмы</p>
     <table>
     <tr>
-      <td>Hi, I'm your first cell.</td>
-      <td>I'm your second cell.</td>
-      <td>I'm your third cell.</td>
-       <td>I'm your fourth cell.</td>
-    </tr>
+      <td>Птичка летит домой</td>
+      <td>Все будет окей</td>
+      <td>Я больше не твой</td>
+       <td>Я больше ничей</td>
+      </tr>
+      <tr>
+        <td>Птичка летит домой</td>
+      <td>Все будет окей</td>
+      <td>Я больше не твой</td>
+       <td>Я больше ничей</td>
+      </tr>
     </table>
   </body>
 </html>
