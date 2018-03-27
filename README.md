@@ -4,32 +4,31 @@ r<!DOCTYPE html>
     <meta charset="utf-8">
   </head>
   <body>
-    <p>Даша Кветкина - отличная <strong>дама</strong></p> 
-    <p>Она любит розы и глупые драмы</p>
+        <h1>Animals table</h1>
     <table>
-    <tr>
-      <th>Птичка летит домой</th>
-      <th>Все будет окей</th>
-      <th>Я больше не твой</th>
-       <th>Я больше ничей</th>
+      <tr>
+        <th colspan="2">Animals</th>
       </tr>
       <tr>
-        <th>Птичка летит домой</th>
-        <th>Все будет окей</th>
-        <th>Я больше не твой</th>
-        <th>Я больше ничей</th>
+        <th colspan="2">Hippopotamus</th>
       </tr>
       <tr>
-        <th>1</th>
-        <th>2</th>
-        <th>3</th>
-        <th>4</th>
+        <th rowspan="2">Horse</th>
+        <td>Mare</td>
       </tr>
       <tr>
-        <th>Фонарь</th>
-        <th>Веревка</th>
-        <th>Лестница</th>
-        <th>&nbsp;</th>
+        <td>Stallion</td>
+      </tr>
+      <tr>
+        <th colspan="2">Crocodile</th>
+      </tr>
+      <tr>
+        <th rowspan="2">Chicken</th>
+        <td>Cock</td>
+      </tr>
+      <tr>
+        <td>Rooster</td>
+      </tr>
     </table>
   </body>
 </html>
