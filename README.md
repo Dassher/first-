@@ -1,34 +1,22 @@
-r<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
   </head>
   <body>
-        <h1>Animals table</h1>
-    <table>
-      <tr>
-        <th colspan="2">Animals</th>
-      </tr>
-      <tr>
-        <th colspan="2">Hippopotamus</th>
-      </tr>
-      <tr>
-        <th rowspan="2">Horse</th>
-        <td>Mare</td>
-      </tr>
-      <tr>
-        <td>Stallion</td>
-      </tr>
-      <tr>
-        <th colspan="2">Crocodile</th>
-      </tr>
-      <tr>
-        <th rowspan="2">Chicken</th>
-        <td>Cock</td>
-      </tr>
-      <tr>
-        <td>Rooster</td>
-      </tr>
-    </table>
+<table>
+  <tr>
+    <th>Data 1</th>
+    <th style="background-color: yellow">Data 2</th>
+  </tr>
+  <tr>
+    <td>Calcutta</td>
+    <td style="background-color: yellow">Orange</td>
+  </tr>
+  <tr>
+    <td>Robots</td>
+    <td style="background-color: yellow">Jazz</td>
+  </tr>
+</table>
   </body>
 </html>
