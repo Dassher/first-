@@ -30,6 +30,7 @@
         <td>Фонарь</td>
         <td>Веревка</td>
         <td>Лестница</td>
+        <td>&nbsp;</td>
     </table>
   </body>
 </html>
